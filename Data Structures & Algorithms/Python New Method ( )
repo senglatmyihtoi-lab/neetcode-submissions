@@ -1,0 +1,4 @@
+defautdict () #defaultdict(default_factory_data_structure type)
+.join() #seprated.join(item)
+hashmap dictionary data structure .append() #dict[key].append(value)
+sorted() #sorted(data)
